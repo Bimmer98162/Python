@@ -1,0 +1,7 @@
+i: 1
+love: 1
+python: 1
+it: 1
+is: 1
+very: 1
+fun: 1
